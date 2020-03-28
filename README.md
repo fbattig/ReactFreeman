@@ -1,2 +1,0 @@
-# ReactFreeman
-Created with CodeSandbox
